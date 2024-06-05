@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-from requests import get
-import matplotlib.pyplot as plt
-import numpy as np
+import math
 from pathlib import Path
 import os
 
