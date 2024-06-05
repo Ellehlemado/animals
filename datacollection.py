@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from requests import get
-from bs4 import BeautifulSoup as bs
 import matplotlib.pyplot as plt
 import numpy as np
 from pathlib import Path
